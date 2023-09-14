@@ -1,6 +1,7 @@
 
 
 # 3D-OutDet: A Fast and Memory Efficient Outlier Detector for 3D LiDAR Point Clouds in Adverse Weather
+### Authors: Abu Mohammed Raisuddin, Tiago Cortinhal, Jesper Holmblad, and Eren Erdal Aksoy
 # 3D-OutDet Source Code: [Click Here to visit source code](https://github.com/sporsho/3D_OutDet)
 # 3D-OutDet Supplementary Information: [Click Here to download](https://github.com/sporsho/sporsho.github.io/blob/main/Suppli_3D_OutDet.pdf)
 # 3D-OutDet Videos
