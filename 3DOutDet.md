@@ -10,3 +10,7 @@
 
 ## Rain Spray Removal with 3D-OutDet
 [![Rain Spray Removal with 3D-OutDet](https://img.youtube.com/vi/oAwEMDybk5Y/0.jpg)](https://www.youtube.com/watch?v=oAwEMDybk5Y)
+
+
+## PrePrint 
+### 3D-OutDet PrePrint: [Click Here to visit preprint](https://hhse-my.sharepoint.com/:b:/g/personal/abu-mohammed_raisuddin_hh_se/Eeo3VbupsjRDtA8OX7H0gaEBYynHa9a_VOjyVOMhqGTyPA?e=tmeCYe)
