@@ -6,7 +6,7 @@
 # 3D-OutDet Supplementary Information: [Click Here to download](https://github.com/sporsho/sporsho.github.io/blob/main/Suppli_3D_OutDet.pdf)
 # 3D-OutDet Videos
 ## DeSnowing with 3D-OutDet
-[![DeSnowing with 3D-OutDet](https://img.youtube.com/vi/sf5W_BmRq9s/0.jpg)](https://www.youtube.com/watch?v=sf5W_BmRq9s)
+[![DeSnowing with 3D-OutDet](https://img.youtube.com/vi/1DJqPB6W7EA/0.jpg)](https://www.youtube.com/watch?v=1DJqPB6W7EA)
 
 ## Rain Spray Removal with 3D-OutDet
 [![Rain Spray Removal with 3D-OutDet](https://img.youtube.com/vi/oAwEMDybk5Y/0.jpg)](https://www.youtube.com/watch?v=oAwEMDybk5Y)
