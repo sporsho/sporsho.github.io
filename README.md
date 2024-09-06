@@ -1,5 +1,6 @@
 # Researcher: Abu Mohammed Raisuddin 
 ### Doctoral Candidate @ Halmstad University 
+[Google Scholar](https://scholar.google.com/citations?user=C6S8w-EAAAAJ&hl=en) | [ORCiD](https://orcid.org/0000-0003-0964-4446) | [Web of Science](https://www.webofscience.com/wos/author/record/GNH-4155-2022)
 
 # Current Projects 
 1. 3D-OutDet [Click Here to visit the project page](https://sporsho.github.io/3DOutDet) 
