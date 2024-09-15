@@ -13,6 +13,11 @@
 ## Object Detection on De-Snowed CADC point clouds 
 [![3D-UnOutDet + PointPillers](https://img.youtube.com/vi/3TgyvDLAD8k/0.jpg)](https://www.youtube.com/watch?v=3TgyvDLAD8k)
 
+# CADC Annotations
+We split the CADC dataset into three sets: training, validation and testing. Testing set has 32 sequences. 
+One research engineer had annotated 2 testing sequences from CADC which were reviewed by one doctoral candidate. With that 2 labeled sequences, we trained 3D-OutDet to produce annotations for the remaining 30 sequences from our test set. 
+
+[Click here for both Human and Machine annotations](https://github.com/sporsho/CADC_test_labels)
 
 ## PrePrint 
-### Un-OutDet PrePrint: coming soon
+### 3D-UnOutDet PrePrint: coming soon
