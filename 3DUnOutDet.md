@@ -3,6 +3,11 @@
 ### Authors: Abu Mohammed Raisuddin, Idriss Gouigah, and Eren Erdal Aksoy
 # 3D-UnOutDet Source Code: [Click Here](https://github.com/sporsho/3DUnOutDet) 
 # 3D-UnOutDet Supplementary Information: [Click to see Supplementary Information](3DUnOutDet_Suppli.pdf)
+# Acknowledgement 
+Nisa B. Nar has been acknowledged for annotating some point clouds. 
+
+Segments.ai has been acknowledged for giving us free academic license to use their annotation tool for academic research. Segments.ai has been cited in the paper which will be visible upon publishing the article. 
+
 # 3D-UnOutDet Videos
 ## DeSnowing with 3D-UnOutDet in WADS dataset 
 [![DeSnowing WADS with 3D-UnOutDet](https://img.youtube.com/vi/cuhVL43Ec5Q/0.jpg)](https://www.youtube.com/watch?v=cuhVL43Ec5Q)
