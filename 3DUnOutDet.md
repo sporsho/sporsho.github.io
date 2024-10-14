@@ -6,7 +6,8 @@
 # Acknowledgement 
 Nisa B. Nar has been acknowledged for annotating some point clouds. 
 
-Segments.ai has been acknowledged for giving us free academic license to use their annotation tool for academic research. Segments.ai has been cited in the paper which will be visible upon publishing the article. 
+We thank [Segments.ai](https://segments.ai/) for giving us free academic license to use their annotation tool for academic research. 
+[Segments.ai](https://segments.ai/) has been cited in the paper instead of putting their name in the Acknowledgement. 
 
 # 3D-UnOutDet Videos
 ## DeSnowing with 3D-UnOutDet in WADS dataset 
@@ -25,4 +26,4 @@ One research engineer had annotated 2 testing sequences from CADC which were rev
 [Click here for both Human and Machine annotations](https://github.com/sporsho/CADC_test_labels)
 
 ## PrePrint 
-### 3D-UnOutDet PrePrint: coming soon
+### [Click here to see the Pre-Print](https://www.techrxiv.org/users/693555/articles/1231016-3d-unoutdet-a-fast-and-efficient-unsupervised-snow-removal-algorithm-for-3d-lidar-point-clouds)
