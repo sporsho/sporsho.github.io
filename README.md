@@ -12,3 +12,11 @@
 2. DeepWrist [Click here to read the article](https://www.nature.com/articles/s41598-021-85570-2)
 3. Semi-Supervised Active Learning [Click here to read the article: IEEE membership or similar access may be required](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761668)
 
+# Experiences
+1. Deep Learning:  8+ years (2017 - Present)
+    - TensorFlow (2017-2018)
+    - PyTorch (2018 - Present)
+2. Android Radio Interface Layer: 5 years (2011 - 2016)
+    - Java (2011 - 2016)
+3. Tizen Native App Development: 1 year (2015-2016)
+    - C / C++ (2015-2016)
