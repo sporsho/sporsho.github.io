@@ -8,7 +8,11 @@
 3. Technische Hochschule Ingolstadt
 
 ## Data Download 
-Will be available soon. 
+[Click Here to Download REHEARSE3D](https://s3.ice.ri.se/roadview-rehearse3d_public/REHEARSE3D_PUBLIC.zip)
+
+
+Simulated Data Link Coming Soon
+
 
 The data directory structure is shown below. The root folder name is ```REHEARSE3D_PUBLIC```. Following the Semantic Kitti structure, there is ```sequences``` folder inside the root folder. 
 Inside it, there are 143 sequences numbered from ```000``` to ```142```. 
@@ -110,7 +114,9 @@ REHEARSE3D_PUBLIC
 ## Saved Model
 
 [Outdet Weights](REHEARSE3D/outdet/outdet.pt)
-[SalsaNext Weights](REHEARSE3D/salsanext/SalsaNext_valid_best)
+
+
+[SalsaNext Weights](https://s3.ice.ri.se/roadview-rehearse3d_public/salsanext/SalsaNext_valid_best)
 
 ## Hyperparameters
 Will be available soon. 
