@@ -111,6 +111,8 @@ REHEARSE3D_PUBLIC
     .
     |- 142
 ```
+
+
 ## Saved Model
 
 [Outdet Weights](REHEARSE3D/outdet/outdet.pt)
@@ -124,3 +126,5 @@ Will be available soon.
 ## Rain Removal with 3D-OutDet and SalsaNext
 [![Rain Removal on REHEARSE-3D](https://img.youtube.com/vi/HnQxf5jjvsI/0.jpg)](https://www.youtube.com/watch?v=HnQxf5jjvsI)
 
+# Acknowledgement 
+We thank Foxglove Technologies, Inc. for publishing a very nice tutorial on REHEARSE-3D dataset. The Tutorial can be found [here](https://foxglove.dev/blog/working-with-scenes-and-pointclouds?utm_content=344639551&utm_medium=social&utm_source=twitter&hss_channel=tw-1356767330856955904)
