@@ -7,8 +7,8 @@
 2. 3D-UnOutDet [Click Here to visit the project page](https://sporsho.github.io/3DUnOutDet) 
 3. LiDAR De-Snow Score [Click here to read the pre-print](https://d197for5662m48.cloudfront.net/documents/publicationstatus/202853/preprint_pdf/be8813ef817ae614452a55fed90cb517.pdf)
 4. REHEARSE-3D [Click Here to visit the project page](https://sporsho.github.io/REHEARSE3D) 
-4. SnowyScenes [Click Here to visit the project page](https://sporsho.github.io/SnowyScenes) 
-
+5. SnowyScenes [Click Here to visit the project page](https://sporsho.github.io/SnowyScenes) 
+6. 3D-MMOutDet [Click Here to visit the project page](https://sporsho.github.io/3DMMOutDet) 
 # Past Projects 
 1. Aletheia: a failure diagnosis toolchain [Click here to read the paper](https://dl.acm.org/doi/abs/10.1145/3183440.3183486)
 2. DeepWrist [Click here to read the article](https://www.nature.com/articles/s41598-021-85570-2)
