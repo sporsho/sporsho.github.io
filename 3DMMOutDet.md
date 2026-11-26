@@ -6,7 +6,7 @@
 # 3D-MMOutDet Supplementary Information: [Click Here to download](https://github.com/sporsho/sporsho.github.io/blob/main/Suppli_MMOutDet.pdf)
 
 # 3D-MMOutDet Trained models: 
-coming soon
+[Click here to find the trained models](https://github.com/sporsho/3D_MMOutDet/tree/main/saved_models)
 
 ## PrePrint 
 ### 3D-MMOutDet PrePrint: [Click Here to visit preprint](https://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-60527)
